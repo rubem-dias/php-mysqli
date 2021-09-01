@@ -1,0 +1,7 @@
+<?php
+
+    fuction ola() {
+        S
+    }
+
+?>
